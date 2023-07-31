@@ -70,7 +70,7 @@
   display: flex;
   justify-content: end;
   align-items: end;
-  font-size: 35px;
+  font-size: 30px;
   color: #fff;
   text-shadow: 1px 1px 2px rgb(0, 0, 0);
   overflow: hidden;
@@ -131,7 +131,7 @@
 
 .quadratic-calculator {
   background-color: #00000088;
-  height: 50vh;
+  height: 70vh;
   max-width: 100%;
   width: 900px;
   color: #fff;
